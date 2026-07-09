@@ -86,52 +86,19 @@ const thiruselvan = {
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/thiru194/project-one">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiru194&repo=project-one&theme=tokyonight&hide_border=true&border_radius=10" alt="Project One" />
-  </a>
-  <a href="https://github.com/thiru194/project-two">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiru194&repo=project-two&theme=tokyonight&hide_border=true&border_radius=10" alt="Project Two" />
-  </a>
-</p>
+> 👉 Replace the names, links and descriptions below with your real repositories.
 
-<p align="center">
-  <a href="https://github.com/thiru194/project-three">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiru194&repo=project-three&theme=tokyonight&hide_border=true&border_radius=10" alt="Project Three" />
-  </a>
-  <a href="https://github.com/thiru194/project-four">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiru194&repo=project-four&theme=tokyonight&hide_border=true&border_radius=10" alt="Project Four" />
-  </a>
-</p>
+| Project | Description | Tech Stack |
+| :------ | :---------- | :--------- |
+| **[Project One](https://github.com/thiru194/project-one)** | A short one-line description of what this project does. | React · Node.js · MongoDB |
+| **[Project Two](https://github.com/thiru194/project-two)** | A short one-line description of what this project does. | HTML · CSS · JavaScript |
+| **[Project Three](https://github.com/thiru194/project-three)** | A short one-line description of what this project does. | Express · MongoDB |
+| **[Project Four](https://github.com/thiru194/project-four)** | A short one-line description of what this project does. | React · Bootstrap |
 
 <p align="center">
   <a href="https://github.com/thiru194?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="view all projects" />
   </a>
-</p>
-
----
-
-<!-- =================================================================== -->
-<!-- 📊 ENHANCED SECTION — GITHUB STATS                                  -->
-<!-- =================================================================== -->
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiru194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiru194&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thiru194&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiru194&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies" />
 </p>
 
 ---
