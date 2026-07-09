@@ -14,15 +14,18 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
-
-<br clear="right"/>
+---
 
 <!-- =================================================================== -->
-<!-- 🔒 UNCHANGED SECTION — ABOUT ME                                     -->
+<!-- 🔒 UNCHANGED SECTION — ABOUT ME (now a two-column layout)            -->
 <!-- =================================================================== -->
 
 ### 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```javascript
 const thiruselvan = {
     role: "Web Developer",
@@ -32,10 +35,20 @@ const thiruselvan = {
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
+
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **React.js**
 - ⚡ I love building clean, responsive web apps
 - 📫 Reach me at **thiruselvan0319@gmail.com**
+
+</td>
+<td valign="top" width="45%">
+
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,9 +92,8 @@ const thiruselvan = {
 ---
 
 <!-- =================================================================== -->
-<!-- ⭐ NEW SECTION — FEATURED PROJECTS                                   -->
-<!-- 👉 Replace the repo names below (repo=YOUR-REPO) with your real     -->
-<!--    repositories. The cards auto-render your project details.        -->
+<!-- ⭐ FEATURED PROJECTS                                                 -->
+<!-- 👉 Replace names, links and descriptions with your real repos.       -->
 <!-- =================================================================== -->
 
 ### 🚀 Featured Projects
