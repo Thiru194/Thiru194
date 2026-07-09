@@ -102,7 +102,7 @@ const thiruselvan = {
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
-| **[Portfolio](thiru194.github.io/portfolio-app/)** | My Portfolio  | React |
+| **[Portfolio](https://github.com/Thiru194/portfolio-app)** | My Portfolio  | React |
 | **[Project Two](https://github.com/thiru194/project-two)** | A short one-line description of what this project does. | HTML · CSS · JavaScript |
 | **[Project Three](https://github.com/thiru194/project-three)** | A short one-line description of what this project does. | Express · MongoDB |
 | **[Project Four](https://github.com/thiru194/project-four)** | A short one-line description of what this project does. | React · Bootstrap |
