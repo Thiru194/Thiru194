@@ -103,9 +103,9 @@ const thiruselvan = {
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
 | **[Portfolio](https://github.com/Thiru194/portfolio-app)** | My Portfolio  | React |
-| **[Project Two](https://github.com/thiru194/project-two)** | A short one-line description of what this project does. | HTML · CSS · JavaScript |
-| **[Project Three](https://github.com/thiru194/project-three)** | A short one-line description of what this project does. | Express · MongoDB |
-| **[Project Four](https://github.com/thiru194/project-four)** | A short one-line description of what this project does. | React · Bootstrap |
+| **[Job Board](https://github.com/Thiru194/job)** | A short one-line description of what this project does. | HTML · CSS · JavaScript |
+| **[Blood Connect](https://github.com/Thiru194/blood-connect)** | A short one-line description of what this project does. |HTML · CSS · JavaScript · Express · MongoDB |
+| **[Mutual Friend Recommendation ](https://github.com/thiru194/project-four)** | A short one-line description of what this project does. | HTML · Javascript |
 
 <p align="center">
   <a href="https://github.com/thiru194?tab=repositories">
