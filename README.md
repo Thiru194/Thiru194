@@ -105,7 +105,7 @@ const thiruselvan = {
 | **[Portfolio](https://github.com/Thiru194/portfolio-app)** | My Portfolio  | React |
 | **[Job Board](https://github.com/Thiru194/job)** | A short one-line description of what this project does. | HTML · CSS · JavaScript |
 | **[Blood Connect](https://github.com/Thiru194/blood-connect)** | A short one-line description of what this project does. |HTML · CSS · JavaScript · Express · MongoDB |
-| **[Mutual Friend Recommendation ](https://github.com/thiru194/project-four)** | A short one-line description of what this project does. | HTML · Javascript |
+| **[Mutual Friend Recommendation ](https://github.com/Thiru194/mutual-friend-recommendation)** | A short one-line description of what this project does. | HTML · Javascript |
 
 <p align="center">
   <a href="https://github.com/thiru194?tab=repositories">
