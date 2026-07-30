@@ -1,7 +1,10 @@
-<!-- ===== Banner / Typing Animation ===== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thiruselvan+S;Passionate+Web+Developer;MERN+Stack+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<!-- ===== Header Wave ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=180&section=header&text=Thiruselvan%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=52&descSize=18" />
+
+<!-- ===== Typing Animation ===== -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thiruselvan+S;Passionate+Web+Developer;MERN+Stack+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
 <!-- ===== Profile Badges ===== -->
 <p align="center">
@@ -12,13 +15,12 @@
   <a href="https://github.com/thiru194?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
   </a>
+  <a href="https://github.com/thiru194?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-MERN%20Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="focus" />
+  </a>
 </p>
 
----
-
-<!-- =================================================================== -->
-<!-- 🔒 UNCHANGED SECTION — ABOUT ME (now a two-column layout)            -->
-<!-- =================================================================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
 ### 🧑‍💻 About Me
 
@@ -39,6 +41,7 @@ const thiruselvan = {
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **React.js**
 - ⚡ I love building clean, responsive web apps
+- 🎯 Solving DSA problems on LeetCode & CodeChef
 - 📫 Reach me at **thiruselvan0319@gmail.com**
 
 </td>
@@ -50,14 +53,11 @@ const thiruselvan = {
 </tr>
 </table>
 
----
-
-<!-- =================================================================== -->
-<!-- 🔒 UNCHANGED SECTION — CONNECT WITH ME                              -->
-<!-- =================================================================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
 ### 🌐 Connect With Me
-<p align="left">
+
+<p align="center">
   <a href="https://linkedin.com/in/thiruselvan-s-96839026a" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -72,40 +72,64 @@ const thiruselvan = {
   </a>
 </p>
 
----
-
-<!-- =================================================================== -->
-<!-- 🔒 UNCHANGED SECTION — LANGUAGES AND TOOLS                          -->
-<!-- =================================================================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
 ### 🛠️ Languages and Tools
-<p align="left">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,java,c&perline=10" alt="skills" />
 </p>
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,npm&perline=6" alt="tools" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/REST%20API-02303A?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Responsive"/>
 </p>
 
----
-
-<!-- =================================================================== -->
-<!-- ⭐ FEATURED PROJECTS                                                 -->
-<!-- 👉 Replace names, links and descriptions with your real repos.       -->
-<!-- =================================================================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
 ### 🚀 Featured Projects
 
-> 👉 Replace the names, links and descriptions below with your real repositories.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack |
-| :------ | :---------- | :--------- |
-| **[Portfolio](https://github.com/Thiru194/portfolio-app)** | My Portfolio  | React |
-| **[Job Board](https://github.com/Thiru194/job)** | A short one-line description of what this project does. | HTML · CSS · JavaScript |
-| **[Blood Connect](https://github.com/Thiru194/blood-connect)** | A short one-line description of what this project does. |HTML · CSS · JavaScript · Express · MongoDB |
-| **[Mutual Friend Recommendation ](https://github.com/Thiru194/mutual-friend-recommendation)** | A short one-line description of what this project does. | HTML · Javascript |
+#### 🌟 [Portfolio](https://github.com/Thiru194/portfolio-app)
+A personal portfolio site showcasing my projects, skills and contact details with a clean responsive layout.
+
+`React` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 [Job Board](https://github.com/Thiru194/job)
+A job listing platform where users can browse openings and apply through a simple interface.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩸 [Blood Connect](https://github.com/Thiru194/blood-connect)
+A donor–recipient matching app that connects blood donors with people in need in real time.
+
+`HTML` `CSS` `JS` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤝 [Mutual Friend Recommendation](https://github.com/Thiru194/mutual-friend-recommendation)
+A graph-based recommender that suggests connections by analysing mutual friend networks.
+
+`HTML` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/thiru194?tab=repositories">
@@ -113,17 +137,37 @@ const thiruselvan = {
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
-<!-- ===== Contribution Snake ===== -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiru194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiru194&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiru194&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thiru194&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
+
+### 🐍 Contribution Graph
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+great+together!" alt="footer typing" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/thiru194">Thiruselvan</a> — feel free to star the repos you like!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0e75b6&height=120&section=footer" />
