@@ -30,19 +30,22 @@
 
 ```javascript
 const thiruselvan = {
-    role: "Web Developer",
-    currentlyLearning: "MERN Stack",
-    askMeAbout: "React.js",
+    pronouns: "He" | "Him",
+    role: "Full Stack Web Developer",
+    code: ["JavaScript", "Java", "C", "HTML/CSS"],
+    stack: {
+        frontend: ["React", "Bootstrap"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL", "Oracle"],
+        tools: ["Git", "GitHub", "Postman", "VS Code"]
+    },
+    currentlyLearning: "Advanced MERN & System Design",
+    askMeAbout: ["React.js", "REST APIs", "DSA"],
+    challenge: "Solving one DSA problem every single day",
     email: "thiruselvan0319@gmail.com",
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
-
-- 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **React.js**
-- ⚡ I love building clean, responsive web apps
-- 🎯 Solving DSA problems on LeetCode & CodeChef
-- 📫 Reach me at **thiruselvan0319@gmail.com**
 
 </td>
 <td valign="top" width="45%">
@@ -52,6 +55,35 @@ const thiruselvan = {
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 Currently Growing**
+> Deep-diving into the **MERN Stack** — building full-scale apps from schema to deployment.
+
+**💬 Ask Me About**
+> **React.js**, component architecture, hooks, and crafting reusable UI.
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ What Drives Me**
+> Building **clean, responsive** web apps that feel fast and look effortless.
+
+**🎯 Daily Grind**
+> Sharpening problem-solving on **LeetCode** & **CodeChef** — one algorithm at a time.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="mailto:thiruselvan0319@gmail.com">
+    <img src="https://img.shields.io/badge/📫%20Let's%20Talk-thiruselvan0319@gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
