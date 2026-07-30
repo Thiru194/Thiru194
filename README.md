@@ -1,10 +1,7 @@
 <!-- ===== Header Wave ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=180&section=header&text=Thiruselvan%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=52&descSize=18" />
 
-<!-- ===== Typing Animation ===== -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thiruselvan+S;Passionate+Web+Developer;MERN+Stack+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+<h3 align="center">Hi 👋 I'm Thiruselvan S — Passionate Web Developer & Tech Explorer 🚀</h3>
 
 <!-- ===== Profile Badges ===== -->
 <p align="center">
@@ -106,7 +103,7 @@ const thiruselvan = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,java,c&perline=10" alt="skills" />
@@ -114,11 +111,15 @@ const thiruselvan = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,npm&perline=6" alt="tools" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/REST%20API-02303A?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Responsive"/>
-</p>
+
+| Area | Technologies |
+| :--- | :--- |
+| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · React.js · Bootstrap |
+| ⚙️ **Backend** | Node.js · Express.js · REST APIs |
+| 🗄️ **Database** | MongoDB · MySQL · Oracle |
+| 💻 **Languages** | JavaScript · Java · C |
+| 🧰 **Tools** | Git · GitHub · VS Code · Postman · npm |
+| 🧠 **Concepts** | Data Structures & Algorithms · OOP · DBMS · Responsive Design |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
@@ -171,24 +172,38 @@ A graph-based recommender that suggests connections by analysing mutual friend n
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
-### 📊 GitHub Stats
+### 📌 What I'm Up To
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiru194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiru194&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+```text
+🔭  Building  →  Full-stack MERN applications end to end
+🌱  Learning  →  Advanced React patterns, System Design, Deployment
+🧩  Solving   →  DSA problems daily on LeetCode & CodeChef
+🤝  Open to   →  Internships, freelance work & open-source collaboration
+📍  Based in  →  Tamil Nadu, India
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiru194&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
+### 🎯 Currently Focused On
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiru194&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</p>
+| Goal | Progress |
+| :--- | :--- |
+| Master the MERN Stack | `██████████░░░░░` 70% |
+| Data Structures & Algorithms | `████████████░░░` 80% |
+| System Design Basics | `█████░░░░░░░░░░` 35% |
+| Open Source Contributions | `████░░░░░░░░░░░` 25% |
+
+### 💡 Dev Philosophy
+
+> **"Write code that humans can read — machines will figure it out anyway."**
+>
+> I believe good software is equal parts clean logic, thoughtful UI, and code that the next developer can pick up without a manual.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
 ### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiru194&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -196,9 +211,8 @@ A graph-based recommender that suggests connections by analysing mutual friend n
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+great+together!" alt="footer typing" />
-</p>
+<h3 align="center">Thanks for visiting! ⭐</h3>
+<p align="center">Let's build something great together 🚀</p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/thiru194">Thiruselvan</a> — feel free to star the repos you like!</i></p>
 
