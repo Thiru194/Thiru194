@@ -199,14 +199,54 @@ A graph-based recommender that suggests connections by analysing mutual friend n
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
 
-### 🐍 Contribution Graph
+### 🧭 How I Build
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**1️⃣ Understand**
+
+Break the problem down before writing a single line. Clarity first, code second.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**2️⃣ Build**
+
+Ship a working version early, then refine — modular components, clean APIs, readable logic.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**3️⃣ Refine**
+
+Test, optimise, document. A feature isn't done until it's reliable and maintainable.
+
+</td>
+</tr>
+</table>
+
+### 📖 A Few Things I Believe
+
+```text
+"Consistency beats intensity."           →  One problem a day compounds fast.
+"Readable code is a kindness."           →  Someone (probably me) will read this later.
+"Ship it, then perfect it."              →  A working v1 teaches more than a perfect plan.
+"Every bug is a lesson in disguise."     →  Debugging is where the real learning happens.
+```
+
+### 🤝 Let's Work Together
+
+I'm actively looking for **software developer roles, internships, and freelance projects** — and I'm always up for collaborating on open-source work. If you're building something interesting, or think I'd be a good fit for your team, my inbox is open.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiru194&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <a href="mailto:thiruselvan0319@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="say hello" />
+  </a>
+  <a href="https://linkedin.com/in/thiruselvan-s-96839026a">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:2ea44f&height=3&section=header" />
